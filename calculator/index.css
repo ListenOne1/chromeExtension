@@ -1,0 +1,48 @@
+.app{
+    width: 150px;
+    /* padding: 5px; */
+} 
+
+.num{
+    margin-top: 5px;
+    margin-left: 5px;
+    color:#fff;
+    background-color: darkgray;
+    border-radius: 5px;
+}
+
+.opp{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #fff;
+    background-color: rgb(232, 174, 0);
+    border-radius: 5px;
+}
+
+.tnum{
+    margin-top: 5px;
+    margin-left: 5px;
+    color:#fff;
+    background-color: darkgrey;
+    padding-right: 23px;
+    padding-left: 23px;
+    border-radius: 5px;
+}
+
+.lastOpp{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #fff;
+    background-color: rgb(232, 174, 0);
+    padding-right: 10px;
+    padding-left: 9px;
+    border-radius: 5px;
+}
+
+.list{
+    margin-top: 5px;
+    margin-left: 5px;
+    color: #fff;
+    background-color: #000;
+    padding-right: 10px;
+}

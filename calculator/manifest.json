@@ -1,0 +1,11 @@
+﻿{
+  "name": "Calculator",
+  "version": "1.0",
+  "manifest_version": 3,
+  "description": "This is Calculator",
+  "action": {
+    "default_icon": "+-.png",
+    "default_title": "calculator",
+    "default_popup": "popup.html"
+  }
+}
