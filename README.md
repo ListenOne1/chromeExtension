@@ -10,25 +10,26 @@
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Web Pages
+# Chrome Extension
 
 {Describe each of the web pages you created and how the web app transitions between each of them.  Also describe what is dynamically created on each page.}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* vs code
+* html
+* CSS
+* JavaScript
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [MV2 to MV3 in stackoverflow](https://stackoverflow.com/questions/63308160/how-to-migrate-manifest-version-2-to-v3-for-chrome-extension)
 * [Web Site Name](http://url.link.goes.here)
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
+* add keyboard input function
 * Item 2
 * Item 3
