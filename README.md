@@ -4,7 +4,7 @@ I made a calculator in the chrome extension. Sometimes I need to use the calcula
 
 This program can do simple Arithmetic including Addition, Subtraction, Multiplication, and Division.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/GcLNZutdW2g)
 
 # Development Environment
 
