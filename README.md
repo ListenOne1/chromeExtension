@@ -16,9 +16,10 @@ This program can do simple Arithmetic including Addition, Subtraction, Multiplic
 # Useful Websites
 
 * [MV2 to MV3 in stackoverflow](https://stackoverflow.com/questions/63308160/how-to-migrate-manifest-version-2-to-v3-for-chrome-extension)
-* [Web Site Name](http://url.link.goes.here)
+* [JavaScript tutorial in W3school](https://www.w3schools.com/js/)
 
 # Future Work
 
 * add keyboard input function
-* 
+* fix miner bug (0.2 + 0.1)
+* simplify the code
